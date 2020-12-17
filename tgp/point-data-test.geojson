@@ -1,0 +1,101 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700946,45.270846 ]
+    },
+    "properties": {
+    "bgn":"Moodie family plot in Claudette Caine park",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"James moodie died Nov 5 1873 aged 60 years. //",
+    "mt":"4310",
+    "ls":"150",
+    "dom":"1873"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.67672,44.482784 ]
+    },
+    "properties": {
+    "bgn":"Sacred Heart Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"BRADY",
+    "mt":"100",
+    "ls":"200",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631698,45.349937 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Halpenny. In Loving Memory of Isaac Halpenny 1855-1919. His Wife Harriet Greene 1863-1933. Their Son Isaac Halpenny 1908-1981. His Wife Eleanor Aylsworth 1914-1993",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"1993"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949656,45.367905 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Campeau A La Memoire De Clauda Campeau Nee Leroux 22 Jan. 1925-8 Avril 1980 La Mort N'est Qu'un Passage Vers L'eternel",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949704,45.367939 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Curley - William Charles 1904-1956 His Wife Kathleen Muldoon 1898-1983 Also Wife of Ernest E. Byrne 1897-1973",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949695,45.367924 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Marry Anne Burke Molly Burke Born 1882 Died 1966 Wife of James Brennan Born 1872 Died 1968 Rest in peace Thos J. Brennan Born 1906 Died 1966",
+    "mt":"6087",
+    "ls":"100",
+    "dom":"NA"
+    }
+  }
+]
+}

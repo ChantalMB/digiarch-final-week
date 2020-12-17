@@ -1,0 +1,2629 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700946,45.270846 ]
+    },
+    "properties": {
+    "bgn":"Moodie family plot in Claudette Caine park",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"James moodie died Nov 5 1873 aged 60 years. //",
+    "mt":"4310",
+    "ls":"150",
+    "dom":"1873"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.67672,44.482784 ]
+    },
+    "properties": {
+    "bgn":"Sacred Heart Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"BRADY",
+    "mt":"100",
+    "ls":"200",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631698,45.349937 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Halpenny. In Loving Memory of Isaac Halpenny 1855-1919. His Wife Harriet Greene 1863-1933. Their Son Isaac Halpenny 1908-1981. His Wife Eleanor Aylsworth 1914-1993",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"1993"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949656,45.367905 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Campeau A La Memoire De Clauda Campeau Nee Leroux 22 Jan. 1925-8 Avril 1980 La Mort N'est Qu'un Passage Vers L'eternel",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949704,45.367939 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Curley - William Charles 1904-1956 His Wife Kathleen Muldoon 1898-1983 Also Wife of Ernest E. Byrne 1897-1973",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949695,45.367924 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Marry Anne Burke Molly Burke Born 1882 Died 1966 Wife of James Brennan Born 1872 Died 1968 Rest in peace Thos J. Brennan Born 1906 Died 1966",
+    "mt":"6087",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735873,45.422256 ]
+    },
+    "properties": {
+    "bgn":"St James Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"144896 Sergeant George Sewell 77th Batt C.E.F. 23rd Dec. 1923 God took him home is was his will but in our hearts he liveth still",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1923"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735873,45.422256 ]
+    },
+    "properties": {
+    "bgn":"St James Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Barr John Alexander Bart 1883-1961 his beloved wife Kate Elinor Allan 1892-1971",
+    "mt":"8200",
+    "ls":"100",
+    "dom":"1961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735873,45.422256 ]
+    },
+    "properties": {
+    "bgn":"St James Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In memory of John J. Armstrong Died Oct, 24, 1911 aged 16 yrs.",
+    "mt":"8100",
+    "ls":"100",
+    "dom":"1911"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.735292,45.422869 ]
+    },
+    "properties": {
+    "bgn":"St James Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"In loving memory of Reuben Traveller died August 30th 1898 Aged 86 years",
+    "mt":"8100",
+    "ls":"100",
+    "dom":"1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.73615,45.422619 ]
+    },
+    "properties": {
+    "bgn":"St James Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Gobey George Gobey 1859-1937 his wife Eliza Wilson 1861-1938",
+    "mt":"8100",
+    "ls":"300",
+    "dom":"1937"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.439924,48.152044 ]
+    },
+    "properties": {
+    "bgn":"Central Cemetery Vienna Austria",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"English translation: 'This gravestone was built to the same design as the original in the W√§hringer Ortsfriedhof and erected by the Association of Friends of Music in 1888 with financial help from the Imperial City Development Fund of Vienna and the Philharmonic Association'",
+    "mt":"9440",
+    "ls":"600",
+    "dom":"1888"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.635324,45.353026 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Lough. Robert R. Lough 1892-1971. His wife W. Pearl Bennet 1900-1945. Infants Mansell R. 1922-1923, Edna M. M. Age 1 Month.",
+    "mt":"5300",
+    "ls":"NA",
+    "dom":"1971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631018,45.35137 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetary",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"mainly legible",
+    "Inscription":"Father. Born Jan 18 1848. Died Jun 6 1925. Mother. Born Jan 9 1850. Died May 1, 1933. In Loving Memory, Daye",
+    "mt":"5000",
+    "ls":"NA",
+    "dom":"1933"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631473,45.349953 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Brown. Clifford R. 'Kip'. Dec. 14 1923. Mar 5. 2004. Wilma E. Claridge. Apr. 26 1927. Mar 5. 2010. Married Aug. 1947",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"2010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631627,45.349937 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"traces",
+    "Inscription":"In Loving Memory of Elnah(?) Taylor Born Dec 21 1902(?) W-------- (Wickford?) England Died July 7th 1921 Father",
+    "mt":"9444",
+    "ls":"NA",
+    "dom":"1921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949713,45.36789 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Carroll - Thomas Carroll Aug. 15, 1850 - Aug. 25, 1938 His Wife Sarah Kennedy Apr. 6, 1849 - Mar. 26 1931",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.221155,45.210053 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Charles H Hawkins MM L/CPL 3 Battn CEF Private VG of Canada 18 July 1972 Age 75",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1972"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.221155,45.210053 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk Cemetery",
+    "com":"overgrown",
+    "coi":"mainly legible",
+    "Inscription":"Mary Ann MacDougall 1896 - 1954 Wife of Charles Hawkins",
+    "mt":"8200",
+    "ls":"950",
+    "dom":"1896"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.193726,45.228006 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Lorna Mary Hawkins 1930 - 1975 dear wife of James A. Reid. Their infant son Philip John.",
+    "mt":"4600",
+    "ls":"950",
+    "dom":"1930"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.220028,45.210694 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In loving memory of David Wesley Murray Mar. 6 1888 Oct. 22 1972 husband of Ada Frances Burke. Ada Frances Burke May 10 1895 May 13 1953 wife of David Wesley Murray. Asleep until the fulfilment of God‚Äôs covenant at the appointed time through Jesus Christ.",
+    "mt":"4600",
+    "ls":"100",
+    "dom":"1953"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.221209,45.209901 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Clifford 1896 - 1969. His wife Lena May Watchorn 1890 - 1952.",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1952"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.219789, 45.212721 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"",
+    "mt":"4706",
+    "ls":"200",
+    "dom":"1926"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631596,45.350343 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Delahunty. Carol Anne Oct. 31, 1953. May 10, 2011. Loving Mother of Gregory, Heather, and Lynn. Always Missed, Never Forgotten",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"2011"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.219488, 45.212902 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"A memorial to Pte Edwin Knapton Aitken 52nd Batt. CEF/ Son of William & Alice Aitken/ Born at Rosetta August 5th 1890, One of our Canadian boys who heard and responded to the call of duty. He fought his last fight and fell at Vimy Ridge/ April 28th 1917/ His body lies somewhere in France",
+    "mt":"5200",
+    "ls":"100",
+    "dom":"1919"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423426,45.415373 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound, but displaced",
+    "coi":"traces",
+    "Inscription":"",
+    "mt":"1000",
+    "ls":"200",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423509,45.415445 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Freda Margaret (Grey), Loving Mother of Tyler, Bradley, and Heather",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"2018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423517,45.415449 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Martin, Jennifer Erin, November 25, 1982 January 5, 1991",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"1991"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423405,45.41546 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"",
+    "mt":"5000",
+    "ls":"100",
+    "dom":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423337,45.415422 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"illegible/destroyed/face down",
+    "Inscription":"Can't be read",
+    "mt":"9000",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423223,45.415475 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound, but displaced",
+    "coi":"mainly legible",
+    "Inscription":"Jackson, In Loving Memory of William Jackson, His Wife Adelaide Hamilton, and Their Eldest Daughter Charles Jackson",
+    "mt":"4000",
+    "ls":"300",
+    "dom":"1974"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.423082,45.415475 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In Memory of Robert Shaw, Martha Wilson, Laura E. Shaw",
+    "mt":"9000",
+    "ls":"200",
+    "dom":"2016"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.422996,45.415499 ]
+    },
+    "properties": {
+    "bgn":"St. Mary's Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"SHAW, George W. Shaw, His Wife Mary L. Sparks",
+    "mt":"5000",
+    "ls":"1003",
+    "dom":"2006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.674749,45.388373 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Isabel Daisy Susan Terry Lebreton 1882-1919 Beloved wife, mother and Grandmother",
+    "mt":"NA",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.674804,45.388335 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Brandish Billings Sen. 1783 - 1864",
+    "mt":"NA",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101291,45.283146 ]
+    },
+    "properties": {
+    "bgn":"St. Michael's Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"I.H.S.  William O'Connell Died April 30, 1871 Margaret Flynn His Wife Died April 6. 1869",
+    "mt":"4500",
+    "ls":"200",
+    "dom":"1869"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693537,45.246628 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In |n Loving Memory Of |n James Mills Clarke |n 1847 - 1935 |n Jane (Paget) Clarke |n 1853 - 1931 |n Rhoda J. |n 1881 - 1898 |n E. Milorco |n 1878 - 1953 |n Florence R. |n 1880 - 1978 |n CLARKE",
+    "mt":"4507",
+    "ls":"100",
+    "dom":"1978"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.430026 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"IN MEMORY OF W.M. WHITE DIED SEPT 23, 1880 AGED 70 YEARS.",
+    "mt":"9000",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.722939,45.331987 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"In memory of Gilbert Nelson/ born Feb. 12, 186(?)8/ died Nov. 21 18[illegibal ... ] 20 1866 ... ??? Rogers Nelson",
+    "mt":"4707",
+    "ls":"100150",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.722873,45.331983 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In memory of/ Ann McAmmond/wife of/ Thomas Nelson/ died Oct. 23 1859/ aged 76 YRS./ Native of Co. Antrim/ IRELAND. (side 2->) Albertha Nelson/ wife of/ James Mullen/ died June 27, 1898/ aged 34 YRS (side 3->) Thomas Nelson Jr/ died March 2, 1871/ Aged 38 YRS. (side 4->) Sacred to/ the memory/ of/ Thomas Melson/ Native to Antrim/ IRELAND/ died/Feb. 23rd 1870/√Ü. 72 yrs(J. K Nelson at the very bottom)",
+    "mt":"9040",
+    "ls":"200250100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723161,45.332742 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"NELSON/ INFANT SON/ OF/ E. B. & E. M. NELSON",
+    "mt":"8200",
+    "ls":"200",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568576,45.371595 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ottawa, On.",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Weatherall, Victor Lorne Weatherall, Mar. 5, 1934 - Feb. 4, 2014. 1959, Dianne Elsie Spencer. This is the promise, life everlasting.",
+    "mt":"4600",
+    "ls":"100",
+    "dom":"2014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723075,45.332701 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"mainly legible",
+    "Inscription":"IN MEMORY OF/ JANE DAVIDSON/ WIFE OF/ ROBERT DAVIDSON/ GLOUCESTER/ Died May 18, 1880. / Aged 50 Yrs.",
+    "mt":"4210",
+    "ls":"100150",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568534,45.371568 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ottawa, On.",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Weatherall, George Allan 1893-1973, Beloved Husband of Lillian Tullis 1892-1986.",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723442,45.332488 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"In Memory of CAROLINE CLARK. died Dec. 20. 1865 Aged .7. Yr 8. mo. 3. dy Also GUY.MEAD.CLARK. died Dec. 20.1865. Aged .5. yr. 2.Mo",
+    "mt":"4100",
+    "ls":"NA",
+    "dom":"1867"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568518,45.371531 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ottawa, On.",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Weatherall, Donald George, 1927-1989.",
+    "mt":"4600",
+    "ls":"100",
+    "dom":"1989"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568518,45.371518 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ottawa, On.",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Weatherall, Gordon Sinclair 1915-2015, Louise Corney 1921-1985.",
+    "mt":"4600",
+    "ls":"500",
+    "dom":"2015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568507,45.371526 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ottawa, On",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Weatherall, In loving memory of Irene Huneault 1923-2013, wife of Allan Ritchie 1913-1970.",
+    "mt":"4600",
+    "ls":"100",
+    "dom":"2013"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.56855,45.371536 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ottawa, On",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Marcus, Benjamin 1913-1997, Jean D. Weatherall 1918-1993.",
+    "mt":"4600",
+    "ls":"500",
+    "dom":"1997"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates": [ -75.723139,45.332235 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In memory of Henry Sproule Died 27 May 1895, Aged 77 Yrs His Wife Hannah Walker Died 11 Aug 1902, Aged 77 yrs Their Children Emily A. Died 8 Sept 1882, Aged 16 Yrs John P A. Died 7 July 1920, Aged 64 Yrs Ella Heale Wife of T L. Sproule",
+    "mt":"4500",
+    "ls":"NA",
+    "dom":"1903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.569423,45.371933 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1964"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723917,45.332462 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"mainly legible",
+    "Inscription":"In Memory of Jane Davidson wife of Robert Davidson Gloucester Died May 18 1880 Aged 50 Yrs",
+    "mt":"4210",
+    "ls":"100",
+    "dom":"1883"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723650,45.332082
+    },
+    "properties": {
+    "bgn":"Merivale United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"The Gra[ve] of John Ullett Died in Ottawa Nov. 29 1861 Aged 42 yrs Nati[ve] of Lincolnshire England",
+    "mt":"4700",
+    "ls":"NA",
+    "dom":"1863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.569671,45.371941 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534251,45.433861 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary the Virgin Cemetry",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"FARMER In loving memory of Robert W. Farmer 1867 - 1934 His wife Mary Jane Hood 1866 - 1917 John Farmer 1832 - 1907 His Wife Mary Ann Morrow 1830 - 1920",
+    "mt":"4606",
+    "ls":"200",
+    "dom":"1934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723451,45.332496 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Sacred to The Memory of John Herriman who was accidentally drowned at Black Rapids on the 28 May 1853 aged 11 years also to the memory of Robert Thynne (brother-in-law to the above) Lock-ma[ster] at Black Rapids who was accidentally drowned at that place on the 16 July 1853 aged 46 years",
+    "mt":"4600",
+    "ls":"NA",
+    "dom":"1855"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.724843, 45.332381 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Sarah Elizabeth Clark wife of Charles Hoy died 20 Nov 1874",
+    "mt":"4306",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534251,45.433824 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary the Virgin Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"IN MEMORY SCHARF LAWRENCE SCHARF 1905 - 1975 HUSBAND OF HAZEL DEMERS 1913-2012",
+    "mt":"4488",
+    "ls":"200",
+    "dom":"2012"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459352,46.337555 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetery",
+    "com":"overgrown",
+    "coi":"all legible",
+    "Inscription":"A La Memoire De Agnes Charette Decedee Le 28 July 1948 A L'Age De 30 Ans Epouse De Rene Boire",
+    "mt":"8200",
+    "ls":"200",
+    "dom":"1948"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45935,46.33762 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"En Memoire De Melle Alice Brule 1898 - 1932 Enfant De Marie",
+    "mt":"4150",
+    "ls":"400",
+    "dom":"1932"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459338,46.337675 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"_ Joseph Died Sept. 3 1910 Cefaro _ Died June 24 1904 Francis Xavier Died May 19 1904 Children of Cornelius & Annie McGuire",
+    "mt":"4500",
+    "ls":"300",
+    "dom":"1904"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459328,46.337724 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Annie Harris 1888 + 1931",
+    "mt":"705",
+    "ls":"100",
+    "dom":"1931"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459328,46.337774 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"3040803 Private John Laronde Central Ontario Regiment 19th October 1918 In Memory of My Dear Son Born 30th April 1899",
+    "mt":"4500",
+    "ls":"NA",
+    "dom":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459349,46.337912 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"George Levasseur 1846 + 1926",
+    "mt":"705",
+    "ls":"100",
+    "dom":"1926"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459532,46.33798 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound, but displaced",
+    "coi":"mainly legible",
+    "Inscription":"In Memory Of Louis Oclare Died Oct. 15, 1927 Aged 65 Yr's & 7 Mo's Rest in Peace",
+    "mt":"4711",
+    "ls":"200",
+    "dom":"1927"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45959,46.337917 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"illegible/destroyed/face down",
+    "Inscription":"Deceased: Cecilia LePage Burial Date: May 24, 1926",
+    "mt":"4300",
+    "ls":"NA",
+    "dom":"1926"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459542,46.337877 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"Died 1921 Niel Lariveire",
+    "mt":"2100",
+    "ls":"NA",
+    "dom":"1921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459618,46.337744 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Albert Cundari 1915 - 1920",
+    "mt":"2100",
+    "ls":"NA",
+    "dom":"1920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.459495,46.33773 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"traces",
+    "Inscription":"A",
+    "mt":"2100",
+    "ls":"250",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.460681,46.337677 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Love is not love that alters with the flight of time. Love is Enduring, Changless, Constant and Divine. Sam Butti Passed Away Mar. 24 1941 His Beloved Wife Angelina Butti Passed Away Mar. 7 1984  Palmara Regonaschi Passed away Dec. 27 1960 John Butti Passed Away Sept. 13 2014 Rsting with those he loved  Butti Erected by his loving wife and son.",
+    "mt":"4706",
+    "ls":"100",
+    "dom":"1941"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.460467,46.337304 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"(side 1) In Memory of Margaret Helenda Wife of John Nidd Died Nov. 12, 1900, Aged 30 Yrs & 10 Mos  May Her SOul Rest in Peace Amen Also Their Daughter Charlotte M. Mary Died Aug. 31, 1900, Aged 6 Mos & 29 Days (Side 2) John William Nidd 1865 - 1949 Beloved Wife Roseanne McNulty 1871 - 1937 Daughter Francis Mary Nidd 1905 - 1959",
+    "mt":"6210",
+    "ls":"300",
+    "dom":"1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.460733,46.33731 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Kathleen F.E.E. May. 18, 1899",
+    "mt":"4500",
+    "ls":"NA",
+    "dom":"1899"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534248,45.433788 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary the Virgin Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"FARMER DAVID FARMER 1863 - 1937 HIS WIFE JANE BICKERTON 1865 - 1955 I KNOW THAT MY REDEEMER LIVETH",
+    "mt":"4319",
+    "ls":"100",
+    "dom":"1955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.45951,46.337209 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary's Roman Catholic Cemetary",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"all legible",
+    "Inscription":"A La Memoire De Anne Geroux Decedee A North Bay Le 28 Avril 1918 A L'Age De 28 Ans 4 Mois Epouse De Josephat Sabourin Decede a North Bay Le 3 Janvier 1940 A L'Age De 59 Ans 5 Mois SABOURIN",
+    "mt":"6010",
+    "ls":"100",
+    "dom":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5342,45.43378 ]
+    },
+    "properties": {
+    "bgn":"Saint Mary the Virgin Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"ROBERT JAMES, 1892 - 1970, BELOVED HUSBAND OF ROBENA EVA FARMER 1894 - 1978, MAKE THEM TO BE NUMBERED WITH THY SAINTS IN GLORY EVERLASTING, KENNEDY",
+    "mt":"6317",
+    "ls":"100",
+    "dom":"1978"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673555,45.388787 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"TWAS BUT A FLOWER TO GOOD FOR EARTH. TRANSPLANTED INTO HEAVEN.",
+    "mt":"4400",
+    "ls":"400",
+    "dom":"1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.534141,45.433747 ]
+    },
+    "properties": {
+    "bgn":"SaintMary the Virgin Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"PURDY, MORELL A (MOE) 1912- 2009 MARRIED IN 1939, VERA G. WEBSTER 1914 - 2008, THEIR SON D. WAYNE 1941 - 2017, THEIR DEAR FRIEND ANDREW F. BEEDS 1949 - 1993",
+    "mt":"4506",
+    "ls":"100",
+    "dom":"2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.429903 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"IN MEMORY OF SARAH ANN DAU. OF W.M. & MARTHA WHITE DIED AUG 23, 1860 AFED 19 YEARS.",
+    "mt":"9000",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.203233,43.159864 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Name, Date of Birth/Death, Scripture in either Latin or Italian but covered by vegetation.",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202066,43.160423 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Anne J. Larkin, Wife of John J. Acres, Died Nov. 13. 1952",
+    "mt":"4000",
+    "ls":"100",
+    "dom":"1952"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202334,43.160384 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"John J. Acres, Died March 9 [1913], [Aged 49 Years]",
+    "mt":"4000",
+    "ls":"100",
+    "dom":"1913"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202192,43.160413 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Margaret Acres, Died Oct 18 1934",
+    "mt":"4000",
+    "ls":"100",
+    "dom":"1934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.202448,43.159541 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"James Cliff Adams, May 18 1929, June 20 2017, Anna D. Adams, September 4 1928",
+    "mt":"7000",
+    "ls":"400",
+    "dom":"2017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.201818,43.159202 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"In, Memory of, Bridget Carroll, Wife of, John Ahern, Died May 21 1915, Aged 67 Years, [rest in peace]",
+    "mt":"9000",
+    "ls":"100",
+    "dom":"1915"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673614,45.388475 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"BLESSED BE ARE THEY THAT SLEEP IN THE LORD",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1891"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673571,45.388475 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"BROUSE",
+    "mt":"4700",
+    "ls":"400",
+    "dom":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137169,44.429903 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"-IN MEMORY OF MARTHA BELOVED WIFE OF W.M. WHITE DIED MAY 15, 1852 AFED 40 YEAR.",
+    "mt":"9000",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913372,45.247339 ]
+    },
+    "properties": {
+    "bgn":"Stittsville United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In loving Memory Robert Argue died Dec. 22, 1920, aged 74 yrs ALSO his wife Ann James, died Mar. 21, 1892, aged 42 yrs His wife Adeline Eagleson, died Dec. 27, 1936, aged 74 yrs Daughter Hazel Argue Furse Died June 20, 1987, aged 85 yrs",
+    "mt":"4380",
+    "ls":"300",
+    "dom":"1987"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913227,45.247419 ]
+    },
+    "properties": {
+    "bgn":"Stittsville United Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"traces",
+    "Inscription":"Andrew Argue died Apr 21, 1871 Aged 74 years",
+    "mt":"4700",
+    "ls":"300",
+    "dom":"1871"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913677,45.247581 ]
+    },
+    "properties": {
+    "bgn":"Stittsville United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Sacred To the memory of George Argue from the County Cavan Ireland, who departed this life the 14th June 1848",
+    "mt":"4709",
+    "ls":"100",
+    "dom":"1848"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913457,45.247585 ]
+    },
+    "properties": {
+    "bgn":"Stittsville United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"[Illegible] to the memory of Mary Argue who departed this life June 11th 1863 AE 85 yrs. I know in whom I [Illegible]",
+    "mt":"4100",
+    "ls":"150",
+    "dom":"1863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.913193,45.248076 ]
+    },
+    "properties": {
+    "bgn":"Stittsville United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In memory of Robert Argue died Nov 24, 1892 aged 82 Yrs",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"1892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673596,45.388434 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"",
+    "mt":"4707",
+    "ls":"100",
+    "dom":"1914"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673489,45.388534 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"T'was but a flower to good for earth, transplanted into heaven",
+    "mt":"4400",
+    "ls":"400",
+    "dom":"1898"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673569,45.38844 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"",
+    "mt":"4700",
+    "ls":"400",
+    "dom":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.67357,45.388343 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Blessed are they that sleep in the lord",
+    "mt":"4500",
+    "ls":"200",
+    "dom":"1891"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673601,45.388425 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"collapsed and form unknown",
+    "coi":"illegible/destroyed/face down",
+    "Inscription":"",
+    "mt":"NA",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137217,44.429995 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetry",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"IN MEMORY OF JOSEPH EDWARDS WHO EMIGRATED FROM ENGLAN IN 1831, DIED 1837, AGED 50 YRS. ----- ALSO HIS WIFE MARY DIED AUG 27, 1843 AGED 60 YRS.",
+    "mt":"9000",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137169,44.429873 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"-IN MEMORY OF JOSEPH EDWARDS WHO EMIGRATED FROM ENGLAN IN 1831, DIED 1837, AGED 50 YRS. ----- ALSO HIS WIFE MARY DIED AUG 27, 1843 AGED 60 YRS.",
+    "mt":"9000",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673693,45.388549 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"",
+    "mt":"4700",
+    "ls":"100",
+    "dom":"1919"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673639,45.388427 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemeter",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"",
+    "mt":"4607",
+    "ls":"200",
+    "dom":"1917"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.429903 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"IN MEMORY OF WILLIAM KING, DIED Jan.22, 2859: E. 78 Yrs. Also HANNAH, His wife DIES July 26, 1848: E. 67 YRS.",
+    "mt":"1000",
+    "ls":"150",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673628,45.388246 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"",
+    "mt":"4700",
+    "ls":"100",
+    "dom":"1921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137255,44.429934 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"IN MEMORY OF WILLIAM KING, DIED Jan.22, 2859: E. 78 Yrs. Also HANNAH, His wife DIES July 26, 1848: E. 67 YRS.",
+    "mt":"1000",
+    "ls":"180",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.67373,45.388014 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"",
+    "mt":"4709",
+    "ls":"400",
+    "dom":"1903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.137212,44.429873 ]
+    },
+    "properties": {
+    "bgn":"English Line Bible Christian Church and Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"MARY ANNE Daughter of LAZARUS & P. PAYNE. DIED May 5, 1861. Aged 27 Year.",
+    "mt":"1000",
+    "ls":"180",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673585,45.388074 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"",
+    "mt":"8480",
+    "ls":"200",
+    "dom":"1909"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.673489,45.388462 ]
+    },
+    "properties": {
+    "bgn":"Billings Estate Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Beloved wife, mother, and grandmother.",
+    "mt":"8200",
+    "ls":"100",
+    "dom":"2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700949,45.270883 ]
+    },
+    "properties": {
+    "bgn":"Moodie Family Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"THOMAS Son of JOHN & ELLEN HAWKINS Died Mar. 20, 1889, AE. 11 Yrs. 11 Ms. & 8 Ds.",
+    "mt":"5200",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700999,45.270887 ]
+    },
+    "properties": {
+    "bgn":"Moodie Family Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"JAMES MOODIE Died Nov. 5, 1873 Aged 60 Y'rs. A faithful friend a husband dear A tender parent lieth here Great is the loss we here sustain But hope in heaven to meet again.",
+    "mt":"4607",
+    "ls":"300",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101226,45.283195 ]
+    },
+    "properties": {
+    "bgn":"St. Michael's Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Pray for the soul of Ellen O'Connell Wife of Patrick Roche Died June 1 1892 Aged 67 Yrs",
+    "mt":"9427",
+    "ls":"400",
+    "dom":"1892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693495,45.24668 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"AT REST |n IN MEMORY OF |n WILLIAM C. MOWAT |n DIED |n DEC 27, 1916 |n AGED 17 YRS 6 MTHS |n NEVER |n WILL YOUR MEMORY FADE",
+    "mt":"4500",
+    "ls":"200",
+    "dom":"1918"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101528,45.282995 ]
+    },
+    "properties": {
+    "bgn":"St. Michael's Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In memory of Thomas Carroll Born Mar 20. 1840 Died July 14. 1914 His wife Mary Rowan Born 1843 Died 1918 Aged 75 YRS Requiescant In Pace",
+    "mt":"6200",
+    "ls":"200",
+    "dom":"1914"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.10144,45.283036 ]
+    },
+    "properties": {
+    "bgn":"St. Michael's Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"O'Connell pray for the soul of Richard O'Connell Died Dec.5, 1920, Aged 89 YRS. Pray for the soul of Esther Meehan His wife Died July 20, 1937 Aged 96 YRS. R.I.P.",
+    "mt":"4706",
+    "ls":"400",
+    "dom":"1920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.101376,45.283092 ]
+    },
+    "properties": {
+    "bgn":"St. Michael's Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Pray for the soul of Mary Died Nov. 1860 Aged 10 Yrs. Children of Denis & Bridget Sullivan",
+    "mt":"4100",
+    "ls":"200",
+    "dom":"1860"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.220190,45.212494 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk United Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1942"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.219918,45.212010 ]
+    },
+    "properties": {
+    "bgn":"Auld Kirk United Cemetery",
+    "com":"sound, but displaced",
+    "coi":"mainly legible",
+    "Inscription":"",
+    "mt":"4600",
+    "ls":"200",
+    "dom":"1927"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700938,45.270921 ]
+    },
+    "properties": {
+    "bgn":"Moodie Family Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"THOMAS MOODIE Died Dec. 25, 1904 Aged 59 Yrs.  Also His Wife GRACE DRYSDALE Died April 19, 1926 Aged 74 Yrs. At Rest. Second side,JAMES MOODIE Died Nov. 5, 1873 Aged 60 Yrs. Also His Wife CHRISTINA MOODIE Died May 18, 1901 Aged 75 Yrs.  Asleep In Jesus",
+    "mt":"9501",
+    "ls":"200",
+    "dom":"1873"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.318379,44.478919 ]
+    },
+    "properties": {
+    "bgn":"Victoria Cemetry",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Clarke, Beloved husband of",
+    "mt":"4000",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.701011,45.270896 ]
+    },
+    "properties": {
+    "bgn":"Moodie Family Cemetery",
+    "com":"sound, but displaced",
+    "coi":"mainly legible",
+    "Inscription":"JOHN JAMES Son of Wm. & MARGARET NIXON Died July 30, 1891 Aged 9 Yrs. & 10 Mos.",
+    "mt":"4500",
+    "ls":"300",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.677747,44.482308 ]
+    },
+    "properties": {
+    "bgn":"Sacred Heart Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"CLEMENS",
+    "mt":"8200",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700967,45.270917 ]
+    },
+    "properties": {
+    "bgn":"Moodie Family Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"WILLIAM Son of Wm. & MARGARET NIXON",
+    "mt":"4500",
+    "ls":"150",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.568491,45.371572 ]
+    },
+    "properties": {
+    "bgn":"Ramsayville Cemetary, Ontario, On",
+    "com":"sound, but displaced",
+    "coi":"mainly legible",
+    "Inscription":"Saunders, Dawn E. (Weatherall). June 4, 1941 - Oct 30, 2000.",
+    "mt":"105",
+    "ls":"100",
+    "dom":"2000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.700988,45.270909 ]
+    },
+    "properties": {
+    "bgn":"Moodie Family Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"ALICE Dau'r of WILLIAM & MARGARET NIXON Died Jan. 6, 1880 Aged 1 Yr & 2 Ms. This blooming rose did fade away To bloom in everlasting day.",
+    "mt":"4100",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693336,45.246454 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"[eastern facing side] ALEXANDER |n BOYD |n DIED |n DEC. 11, 1889 |n AGED 68 YRS. |n BOYD [north facing side] ELIZABETH |n SPROTT |n DIED |n APR. 25, 1895 |n AGED 73 YRS. |n WIFE OF |n ALEX BOYD",
+    "mt":"9410",
+    "ls":"300",
+    "dom":"1889"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.949679,45.367875 ]
+    },
+    "properties": {
+    "bgn":"Saint Isidore Roman Catholic Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Brennan 1844 Edward 1936 His Wife 1853 Catherine Houlahan 1937 1877 William 1905 1873 Martin 1944",
+    "mt":"4607",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.200951,43.159778 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Akey, James Robert, July 18 1912 - Oct 1 1975, Hilda Marion, April 28 1917 - May 18 1997",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"1975"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.200535,43.160361 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Albon, 1840 - William -1902, 100th Regiment of Foot, Prince of Wales Royal Canadians, 1850 - Margaret Robertson - 1902, 1880 - William Alexander - 1902, 1882 - George Venator - 1913",
+    "mt":"5300",
+    "ls":"100",
+    "dom":"1902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.199538,43.161981 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In Loving Memory, Aldridge, Elizabeth Albert , Laburn Bert, Wilson, 1916 - 1970 -1903 - 1987",
+    "mt":"4600",
+    "ls":"400",
+    "dom":"1970"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.199519,43.161298 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Alexander, Isabel O, Nov. 21 1870 - Feb 12 1953, Edward Geoffrey, May 28 1902 - Nov [21 1990],  Marjorie I., May 31 1904 - Apr 13 1994",
+    "mt":"4500",
+    "ls":"100",
+    "dom":"1953"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.199549,43.161403 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Hamilton, Alexander, Born, In Lincoln Ontario, May 2 1851, Died, April 17 1922",
+    "mt":"4500",
+    "ls":"200",
+    "dom":"1922"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.201439,43.161126 ]
+    },
+    "properties": {
+    "bgn":"Victoria Lawn Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Watson C Orr, Died, Jan 1 1930, Aged 83 Years, Helen Alexander, 1863 - 1940",
+    "mt":"4498",
+    "ls":"200",
+    "dom":"1930"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723091,45.332636 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"THOMAS/ BROWNLIE,/ WHO DIED/ June 21, 1879/ Aged 8 Yrs (quote illegible)",
+    "mt":"5117",
+    "ls":"200",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723389,45.332892 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"sound, but displaced",
+    "coi":"traces",
+    "Inscription":"HEAVEN IS THY HOME/ Sacred/ (illegible)/ ALEXr MOWAT/ Died July 16 (illegible)/ (rest of inscription is illegible)",
+    "mt":"5101",
+    "ls":"200950100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.723313,45.332972 ]
+    },
+    "properties": {
+    "bgn":"Merivale United Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"In Loving/ Memory of/ GEORGE T. HILL/ Died/ AUG. 25. 1918,/ √Ü. 39 YRS. 8 MS",
+    "mt":"9443",
+    "ls":"100",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7705,43.6942 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"In memory of Nancy wife of Gilbert Vanhice Died May 5, 1858 Aged 57",
+    "mt":"4700",
+    "ls":"100",
+    "dom":"1815"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7705,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Children of D & E Wiggns: William died May 20, 1846 AE. 2 months George W. died Sep.10, 1854 AE. 19 months",
+    "mt":"5120",
+    "ls":"500",
+    "dom":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"mainly legible",
+    "Inscription":"Isabella Ann daughter of D & E Wiggins Died April 26 1874 AE. 13yrs. & 6 months",
+    "mt":"5100",
+    "ls":"150",
+    "dom":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"mainly legible",
+    "Inscription":"Margart J. daughter of D & E Wiggins died Sept 24 1854 A.E 7 yrs & 6 mon and 22 days",
+    "mt":"5200",
+    "ls":"150",
+    "dom":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"all legible",
+    "Inscription":"John Wiggns,  Late Col. In. H.M.M Died July 15,1864; AE. 88 yrs.",
+    "mt":"510",
+    "ls":"150",
+    "dom":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"all legible",
+    "Inscription":"Mary, Wife of Capt. John Wiggns, departed this life Feb.18. 1854 Aged 83",
+    "mt":"5300",
+    "ls":"500",
+    "dom":"1830"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Jane Wife of Samuel Wiggins died Jan.27.1869 Aged 70 Year & Samuel Wiggins died June 19 1877 AE. 76 Yrs",
+    "mt":"4100",
+    "ls":"500",
+    "dom":"1869"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7704,43.6941 ]
+    },
+    "properties": {
+    "bgn":"The Old Brampton Cemetry",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Sacred to the memory of James Westervelt who departed this life July 26. 1858; Aged 47 yrs & 10 mos.",
+    "mt":"4670",
+    "ls":"500",
+    "dom":"1858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "bgn":"Merivale Cemeteries Pinecrest Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Arthur Edward 1886-1966 Beloved Wife Lydia Rose Stevenson 1886-1966",
+    "mt":"4600",
+    "ls":"100",
+    "dom":"1966"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.631653,45.349937 ]
+    },
+    "properties": {
+    "bgn":"Woods Anglican Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Moncrieff. In loving memory of Allison H. Moncrieff 1923-1962. Beloved Husband of Noella Susan Leblond 1927-2004",
+    "mt":"4100",
+    "ls":"200",
+    "dom":"2004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "bgn":"Merivale Cemeteries Pinecrest Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"In Loving Memory of Emma May Draffin 1886-1954 Wife of Alexander W. McLachlan",
+    "mt":"4600",
+    "ls":"300",
+    "dom":"1971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "bgn":"Merivale Cemeteries Pinecrest Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"In Loving Memory of Our Dear Mother Lila Whitehead Mar. 29, 1897-Mar. 28, 1961",
+    "mt":"4600",
+    "ls":"200",
+    "dom":"1961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "bgn":"Merivale Cemeteries Pinecrest Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"In Loving Memory of Robert (K.M.) 1905-1975 Beloved Husband of Mary C. 1910-1999 Helen C.A. 1920-2006",
+    "mt":"4600",
+    "ls":"200",
+    "dom":"2006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693271,45.246405 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"sound, but displaced",
+    "coi":"mint",
+    "Inscription":"LEAGER |n William H. Leager |n 1871 - 1941",
+    "mt":"4600",
+    "ls":"100",
+    "dom":"1941"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.72484,45.33235 ]
+    },
+    "properties": {
+    "bgn":"Merivale Cemeteries Pinecrest Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Claude G. 1921- Jean D. 1922-2011 Loving Parents of Paula and Neil 587 N2(?)",
+    "mt":"105",
+    "ls":"100",
+    "dom":"2011"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693835,45.246427 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mint",
+    "Inscription":"Micheal |n Micheal George Argus |n When we see you again |n in that sun-drenched morning |n or cloud reflected sky, |n you will come walking and |n whistling to meet us |n 1956 - 1986",
+    "mt":"5800",
+    "ls":"150",
+    "dom":"1986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693488,45.246359 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"falling apart, incomplete but recognisable",
+    "coi":"illegible/destroyed/face down",
+    "Inscription":"[illegible]",
+    "mt":"9470",
+    "ls":"NA",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.693486,45.246367 ]
+    },
+    "properties": {
+    "bgn":"River Road Manotick Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"IN MEMORY |n OF |n GEORGE H[...] |n [illegible] |n [another name, illegible] |n HE[remainder of family name probably, illegible]",
+    "mt":"9400",
+    "ls":"200",
+    "dom":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952258,45.438855 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"J.B. Smith| Died| Aug. 22, 1861,| √Ü 2Ms 13ds.| Son of H. & Ann Smith",
+    "mt":"5100",
+    "ls":"400",
+    "dom":"1863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952348,45.438874 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"In memory of| John Beatty| in memory of John Beatty| a native of Ireland| who departed this life| May 15, 1838| aged 27 yrs.| This monument is erected by his| beloved father, Daniel Beatty.",
+    "mt":"4700",
+    "ls":"100150",
+    "dom":"1840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952332,45.438868 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"In memory of| Jane Wilson| died June 17 1848| √Ü. 11 yrs.| John & Ellen| Wilson.|Her life was short but fair; unspotted by a blot; This dove to earth did rest, So murmur not.| J. Wakley",
+    "mt":"4700",
+    "ls":"200150",
+    "dom":"1850"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952326,45.43886 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Sacred to| the memory of| John Wilson| died| Feb. 23. 1881.| Aged 72 Years.| A husband kind a father dear; A loving friend lies buried here; In love he lived in peace he died, His life was asked but God denied.'| his wife| Helen Beatty| died May 27, 1899| aged 82 years.",
+    "mt":"4700",
+    "ls":"300150200",
+    "dom":"1883"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.95246,45.438793 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"In| memory of| Elizabeth Mary| daughter of| G. B. & Olivia R.| Greene| died 9. Aug. 1877.| aged 4 mos.| & 23 days.| 'The little one loved so tenderly, has been taken from all suffer -ing to endless joy.'",
+    "mt":"5106",
+    "ls":"200500600",
+    "dom":"1878"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952479,45.438811 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"Muriel|  Born Feb. 28, 1886| Died Dec. 14, 1895| 'For he shall gather the lambs with his arm and carry them in his bosom.| ISA. XL. II.",
+    "mt":"4500",
+    "ls":"100150",
+    "dom":"1897"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9525,45.438868 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"traces",
+    "Inscription":"in memory of| Charles Townsley| Pinhey| born 26th July 1863| died 16 Jan 1879.| 'In this world of pain and care, Lord thou wouldst no longer leave him. To thy meadows bright and fair, lovingly thou dost receive him.'",
+    "mt":"5309",
+    "ls":"200150",
+    "dom":"1881"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952511,45.43888 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"[east-face] Horace Pinhey| eldest son| of the| Hon. Hamnett K. Pinhey.| died 25 June 1875.| √Ü. 58 yrs.| 'A faithful friend, a parent dear A tender husband lieth here. Great is the loss that we sustain, but hope in Heaven to meet again.'| [north-face] Catherine Tydd Pinhey| beloved| wife of| Horace Pinhey| died 30 April 1898| √Ü 78 yrs.| 'Her children rise up and call her blessed'",
+    "mt":"9440",
+    "ls":"200150",
+    "dom":"1875"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952296,45.438882 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"all legible",
+    "Inscription":"[west-face] In memory of| Howard W. Slack| departed this life| July 10 1898| √Ü. 13 yrs.| & 4 mos.| [south-face] erected to| the memory of| Ann Shore| wife of| Henry Slack| departed this life| April 26, 1877| √Ü. 33 yrs.| [east-face] in memory of| Walton Slack| departed this life| Nov. 21, 1882,| √Ü. 88 yrs|. also| his beloved wife| Hannah| Featherson| departed this life| Oct. 12, 1877| √Ü. 77 yrs.",
+    "mt":"9450",
+    "ls":"200",
+    "dom":"1879"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.953426,45.439103 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"Sacred| to the memory of| Mary Anne| wife of the| Hon. Hamnet Pinhey|  who died Oct 5, 1852| aged 62 years| [embelishment]| Also| to the memory of Hamnett Kirkes Pinhey| A native of Devonshire, England| member of the Legislative Council of| Canada who died 3 March 1857| aged 73 years.",
+    "mt":"1120",
+    "ls":"100150600",
+    "dom":"1854"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.952521,45.438889 ]
+    },
+    "properties": {
+    "bgn":"Old Saint Mary's Anglican Church Cemetery",
+    "com":"sound and in situ (even if leaning)",
+    "coi":"mainly legible",
+    "Inscription":"In memory of| Arabella L. Pinhey| Died| Dec. 20th 1905| √Ü. 54 yrs.| daughter of| Horace & Catherine Tydd Pinhey",
+    "mt":"5200",
+    "ls":"200600",
+    "dom":"1907"
+    }
+  }
+]
+}
